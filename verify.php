@@ -31,4 +31,3 @@ $result = "";
 	}
 
 echo $result;
-?>
