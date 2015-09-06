@@ -1,3 +1,4 @@
 # ignore doc/notes.txt, but not doc/server/arch.txt
 .hg/
+.hgignore
 *.hg
